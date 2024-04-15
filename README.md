@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarikha S</h1>
-<h3 align="center">I'm Sarikha, a passionate cybersecurity researcher and network enthusiast, dedicated to advancing the frontier of digital security and connectivity, while also exploring the cutting-edge realms of generative AI.</h3>
+<h3 align="center">I'm Sarikha, a passionate cybersecurity researcher and network enthusiast,dedicated to advancing the frontier of digital security and connectivity,while also exploring the cutting-edge realms of generative AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techwhiz-sarikha&label=Profile%20views&color=0e75b6&style=flat" alt="techwhiz-sarikha" /> </p>
 
