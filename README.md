@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sarikhasp18@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rYiLHWB-TpryiZheUgYOBEwcVxQpZURJ/view?usp=drive_link](https://drive.google.com/file/d/1rYiLHWB-TpryiZheUgYOBEwcVxQpZURJ/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1yLCw1DyJ6GQgrg3mFBqPFuQ4Dc9qxKP7/view?usp=drivesdk](https://drive.google.com/file/d/1yLCw1DyJ6GQgrg3mFBqPFuQ4Dc9qxKP7/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
