@@ -1,0 +1,29 @@
+name: Github Snake Animation
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: jaywcjlove/github-contribution-grid-snake@main
+        with:
+          svg: github-contribution-grid-snake-dark.svg
+          username: techwhiz-sarikha
+
+      - name: Commit SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p output
+          mv github-contribution-grid-snake-dark.svg output/
+          git add output/github-contribution-grid-snake-dark.svg
+          git commit -m "Update snake"
+          git push
