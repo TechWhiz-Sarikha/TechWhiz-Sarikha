@@ -1,36 +1,64 @@
 <h1 align="center">Hi 👋, I'm Sarikha S</h1>
-<h3 align="center">I'm Sarikha, a passionate cybersecurity researcher and network enthusiast,dedicated to advancing the frontier of digital security and connectivity,while also exploring the cutting-edge realms of generative AI.</h3>
+<h3 align="center">🔐 Cybersecurity Enthusiast | 💻 Full-Stack Developer | 🤖 AI Explorer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=techwhiz-sarikha&label=Profile%20views&color=0e75b6&style=flat" alt="techwhiz-sarikha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techwhiz-sarikha" alt="techwhiz-sarikha" /></a> </p>
-
-- 🌱 I’m currently learning **FullStack,Java**
-
-- 👯 I’m looking to collaborate on **Networks, Cybersecurity, and generative AI.**
-
-- 💬 Ask me about **Networks**
-
-- 📫 How to reach me **sarikhasp18@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yLCw1DyJ6GQgrg3mFBqPFuQ4Dc9qxKP7/view?usp=drivesdk](https://drive.google.com/file/d/1yLCw1DyJ6GQgrg3mFBqPFuQ4Dc9qxKP7/view?usp=drivesdk)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sarikha s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarikha s" height="30" width="40" /></a>
-<a href="Sarikha S" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sarikha S" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sarikhas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sarikhas" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sarikha s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarikha s" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ssarikha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ssarikha" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/sarikha s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="sarikha s" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sarikha s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sarikha s" height="30" width="40" /></a>
+<p align="center">
+Building secure, scalable, and intelligent systems for real-world impact.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techwhiz-sarikha&show_icons=true&locale=en&layout=compact" alt="techwhiz-sarikha" /></p>
+## 🎓 GitHub Education
+🚀 Proud GitHub Student Developer Pack Member  
+Access to GitHub Pro, Copilot, Cloud Credits & Premium Developer Tools.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techwhiz-sarikha&show_icons=true&locale=en" alt="techwhiz-sarikha" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techwhiz-sarikha&" alt="techwhiz-sarikha" /></p>
+## 🚀 About Me
+
+- 🎓 Final Year CSE Student  
+- 🛡️ Passionate about Cybersecurity & Network Security  
+- 🤖 Exploring Generative AI & AI-driven Security Systems  
+- 🌐 Building Full-Stack & IoT-based Real-Time Applications  
+- 👯 Open to collaboration in Security Research & AI Projects  
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Python | Java | C | C++  
+**Web:** React | Node.js | HTML | CSS  
+**Databases:** MongoDB | MySQL | PostgreSQL  
+**Security Tools:** Nmap | Burp Suite | Wireshark  
+**Cloud & Dev:** Firebase | AWS | GitHub Actions  
+**AI/ML:** PyTorch | Pandas  
+
+---
+
+## 🔥 Featured Projects
+
+🔹 CrimeSpot – AI-Based Crime Prediction & Analysis System  
+🔹 Smart Tourist Safety Monitoring System (IoT + GPS + Firebase)  
+🔹 AI-Assisted Vulnerability Assessment Tool  
+🔹 Real-Time Messaging Platform (React + WebSockets)  
+
+---
+
+## 📫 Connect With Me
+
+📧 sarikhasp18@gmail.com  
+🔗 LinkedIn: (add your correct LinkedIn URL here)  
+💻 LeetCode: https://leetcode.com/ssarikha  
+🏆 CodeChef: https://www.codechef.com/users/sarikhas  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=techwhiz-sarikha&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techwhiz-sarikha&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techwhiz-sarikha&theme=radical" />
+</p>
