@@ -16,7 +16,7 @@ jobs:
         uses: jaywcjlove/github-contribution-grid-snake@main
         with:
           svg: github-contribution-grid-snake-dark.svg
-          username: techwhiz-sarikha
+          username: TechWhiz-Sarikha
 
       - name: Commit SVG
         run: |
