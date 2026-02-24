@@ -153,7 +153,7 @@ class Sarikha:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarikha%20S-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/sarikhas/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-ssarikha-0d1117?style=for-the-badge&logo=leetcode&logoColor=00ff41)](https://leetcode.com/ssarikha)
 [![CodeChef](https://img.shields.io/badge/CodeChef-sarikhas-0d1117?style=for-the-badge&logo=codechef&logoColor=00ff41)](https://www.codechef.com/users/sarikhas)
-[![Resume](https://img.shields.io/badge/Resume-View%20CV-0d1117?style=for-the-badge&logo=googledrive&logoColor=00ff41)](https://drive.google.com/file/d/1yLCw1DyJ6GQgrg3mFBqPFuQ4Dc9qxKP7/view?usp=drivesdk)
+[![Resume](https://img.shields.io/badge/Resume-View%20CV-0d1117?style=for-the-badge&logo=googledrive&logoColor=00ff41)]([https://drive.google.com/file/d/1yLCw1DyJ6GQgrg3mFBqPFuQ4Dc9qxKP7/view?usp=drivesdk](https://drive.google.com/file/d/1UYAHHkvE4M7QnHs-tPi_IYXIoX4QHxl6/view?usp=sharing))
 
 </div>
 
