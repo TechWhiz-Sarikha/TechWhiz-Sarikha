@@ -153,9 +153,16 @@ Full-Stack Chat Application (React + Node + WebSockets)
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://github.com/techwhiz-sarikha/techwhiz-sarikha/blob/output/github-contribution-grid-snake-dark.svg" />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/TechWhiz-Sarikha/TechWhiz-Sarikha/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/TechWhiz-Sarikha/TechWhiz-Sarikha/output/github-contribution-grid-snake-light.svg" />
+    <img alt="github contribution snake" 
+      src="https://raw.githubusercontent.com/TechWhiz-Sarikha/TechWhiz-Sarikha/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
 
 ---
 
