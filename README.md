@@ -1,64 +1,52 @@
-<h1 align="center">Hi 👋, I'm Sarikha S</h1>
-<h3 align="center">🔐 Cybersecurity Enthusiast | 💻 Full-Stack Developer | 🤖 AI Explorer</h3>
-
+<h1 align="center">Sarikha S</h1>
 <p align="center">
-Building secure, scalable, and intelligent systems for real-world impact.
+Cybersecurity Enthusiast • Full-Stack Developer • AI Explorer
 </p>
 
 ---
 
-## 🎓 GitHub Education
-🚀 Proud GitHub Student Developer Pack Member  
-Access to GitHub Pro, Copilot, Cloud Credits & Premium Developer Tools.
+## 👩‍💻 About Me
 
----
+Final Year Computer Science student passionate about building secure, scalable, and intelligent systems.
 
-## 🚀 About Me
-
-- 🎓 Final Year CSE Student  
-- 🛡️ Passionate about Cybersecurity & Network Security  
-- 🤖 Exploring Generative AI & AI-driven Security Systems  
-- 🌐 Building Full-Stack & IoT-based Real-Time Applications  
-- 👯 Open to collaboration in Security Research & AI Projects  
+- 🔐 Focused on Cybersecurity & Network Security  
+- 🌐 Building Full-Stack Applications  
+- 🤖 Exploring Generative AI & AI-driven Security  
+- 🚀 GitHub Student Developer Pack Member  
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:** Python | Java | C | C++  
-**Web:** React | Node.js | HTML | CSS  
-**Databases:** MongoDB | MySQL | PostgreSQL  
-**Security Tools:** Nmap | Burp Suite | Wireshark  
-**Cloud & Dev:** Firebase | AWS | GitHub Actions  
-**AI/ML:** PyTorch | Pandas  
+**Languages:** Python, Java, C, C++  
+**Frontend:** React, HTML, CSS  
+**Backend:** Node.js, Express  
+**Databases:** MongoDB, MySQL, PostgreSQL  
+**Security Tools:** Nmap, Burp Suite, Wireshark  
+**Cloud:** Firebase, AWS  
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Featured Work
 
-🔹 CrimeSpot – AI-Based Crime Prediction & Analysis System  
-🔹 Smart Tourist Safety Monitoring System (IoT + GPS + Firebase)  
-🔹 AI-Assisted Vulnerability Assessment Tool  
-🔹 Real-Time Messaging Platform (React + WebSockets)  
+- **CrimeSpot** – AI-based Crime Analysis & Prediction System  
+- **Smart Tourist Safety Monitoring System** – IoT + GPS + Cloud  
+- **AI-Assisted Vulnerability Assessment Tool**  
+- **Real-Time Messaging Platform**  
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=techwhiz-sarikha&show_icons=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techwhiz-sarikha&layout=compact" height="160"/>
+</p>
+
+---
+
+## 📫 Contact
 
 📧 sarikhasp18@gmail.com  
-🔗 LinkedIn: (add your correct LinkedIn URL here)  
+🔗 LinkedIn: (add link)  
 💻 LeetCode: https://leetcode.com/ssarikha  
-🏆 CodeChef: https://www.codechef.com/users/sarikhas  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techwhiz-sarikha&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techwhiz-sarikha&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techwhiz-sarikha&theme=radical" />
-</p>
