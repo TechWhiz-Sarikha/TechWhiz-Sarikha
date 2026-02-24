@@ -151,9 +151,13 @@ Full-Stack Chat Application (React + Node + WebSockets)
 
 ---
 
+## 🐍 Contribution Snake
+
 <div align="center">
   <img src="https://github.com/techwhiz-sarikha/techwhiz-sarikha/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
+
+---
 
 ## 🤝 Connect With Me
 
