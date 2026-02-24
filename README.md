@@ -142,10 +142,13 @@ Full-Stack Chat Application (React + Node + WebSockets)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=techwhiz-sarikha&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techwhiz-sarikha&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=TechWhiz-Sarikha&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&cache_seconds=1800" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechWhiz-Sarikha&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&cache_seconds=1800" width="40%" />
+
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=techwhiz-sarikha&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="60%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TechWhiz-Sarikha&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="60%" />
 
 </div>
 
