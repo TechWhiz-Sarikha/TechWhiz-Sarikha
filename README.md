@@ -113,11 +113,11 @@ Designed to simplify complex security findings through automation and AI interpr
 
 ## 📈 Impact & Activity
 
-- 🧪 Actively participating in CTFs and security hackathons  
-- 🔍 Practicing real-world vulnerability discovery and OWASP Top 10 testing  
-- 🛠 Built AI-powered and IoT-integrated security systems  
-- 📂 30+ repositories across Cybersecurity, AI, and Full-Stack  
-- 🚀 Continuously learning Offensive Security and Cloud Security concepts   
+- Actively participating in CTFs and security hackathons  
+- Practicing real-world vulnerability discovery and OWASP Top 10 testing  
+- Built AI-powered and IoT-integrated security systems  
+- 30+ repositories across Cybersecurity, AI, and Full-Stack  
+- Continuously learning Offensive Security and Cloud Security concepts   
 
 ---
 
