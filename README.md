@@ -142,13 +142,11 @@ Full-Stack Chat Application (React + Node + WebSockets)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TechWhiz-Sarikha&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=86400" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechWhiz-Sarikha&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&cache_seconds=86400" width="40%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TechWhiz-Sarikha&show_icons=true&theme=chartreuse-dark" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TechWhiz-Sarikha&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="60%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TechWhiz-Sarikha&layout=compact&theme=chartreuse-dark" />
 
 </div>
 
