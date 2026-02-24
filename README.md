@@ -99,26 +99,25 @@ class Sarikha:
 
 ## 🔥 Featured Projects
 
-🔴 **CrimeSpot**  
-AI-Based Crime Prediction & Analytics System  
+🔴 **AI Vulnerability Assessor**  
+AI-powered security audit tool integrating Nmap, OpenVAS & CVE mapping with intelligent reporting.  
 
 🟡 **Smart Tourist Safety Monitoring System**  
-IoT + GPS + Firebase Real-Time Alerting  
+IoT + GPS + Cloud-based real-time emergency alert system. 
 
-🟢 **AI Vulnerability Assessor**  
-AI-Powered Security Audit & Detection Tool  
 
-🔵 **Real-Time Messaging Platform**  
-Full-Stack Chat Application (React + Node + WebSockets)
+🔵 **NetScan – Automated Network Enumeration & Vulnerability Analysis Tool**  
+Designed to simplify complex security findings through automation and AI interpretation.
 
 ---
 
 ## 📈 Impact & Activity
 
-- Actively practicing CTF & security labs  
-- 30+ repositories across Security, AI & Full-Stack  
-- Building AI-integrated and IoT-enabled systems  
-- Continuous learner in Offensive Security & Cloud  
+- 🧪 Actively participating in CTFs and security hackathons  
+- 🔍 Practicing real-world vulnerability discovery and OWASP Top 10 testing  
+- 🛠 Built AI-powered and IoT-integrated security systems  
+- 📂 30+ repositories across Cybersecurity, AI, and Full-Stack  
+- 🚀 Continuously learning Offensive Security and Cloud Security concepts   
 
 ---
 
@@ -137,7 +136,14 @@ Full-Stack Chat Application (React + Node + WebSockets)
 - AI + Security Research Collaboration  
 
 ---
-
+## 🏆 Key Achievements
+  
+- 🏅 KPMG India Campus CTF 2025 – Finalist  
+- 🏆 UST Global GenCyS 2025 – Grand Finalist  
+- 🥈 Hackers Asylum CTF, Cypher Chase – Winner  
+- ⭐ NPTEL (IIT Madras) – Discipline Star
+  
+---
 ## 📊 GitHub Stats
 
 <div align="center">
